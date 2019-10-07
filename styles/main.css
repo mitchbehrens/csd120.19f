@@ -1,1 +1,8 @@
 @CHARSET "UTF-8";
+body {background-color : #4A615B;}
+h1, h2 {color : #007A58}
+hyperlink {color : #39675A}
+nav hyperlink {color : #107358}
+.byline {color: rgba(  0,122, 88,0.5)}
+#page-copyright {color : black}
+.hakiu {background-color : gray}
