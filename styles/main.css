@@ -2,7 +2,8 @@
 body {background-color : yellow;}
 h1, h2 {color : red}
 hyperlink {color : green}
+a { color: red; }
+header nav a { color: pink; }
 nav hyperlink {color : black}
 .byline {color: rgba(  0,122, 88,0.5)}
 #page-copyright {color : indigo}
-.hakiu {background-color : black}
