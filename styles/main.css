@@ -1,6 +1,6 @@
 @CHARSET "UTF-8";
 body {background-color : yellow;}
-h1, h2 {color : red}
+h1, h2 {color : red; background-image: url("../images/gradient.png"); background-repeat: repeat-x; font-family : Lora, serif}
 hyperlink {color : green}
 nav hyperlink {color : black}
 .byline {color: rgba(  0,122, 88,0.5)}
