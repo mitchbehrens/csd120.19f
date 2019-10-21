@@ -2,7 +2,7 @@
 body {background-color : yellow;}
 h1, h2 {color : red; background-image: url("../images/gradient.png"); background-repeat: repeat-x; font-family : Lora, serif}
 p {font-family : Roboto, serif}
-hyperlink {color : green}
+hyperlink {color : green; text-decoration : none}
 nav hyperlink {color : black}
 .byline {color: rgba(  0,122, 88,0.5)}
 #page-copyright {color : indigo; text-transform : uppercase; letter-spacing : 3px;}
